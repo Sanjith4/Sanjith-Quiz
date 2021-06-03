@@ -86,21 +86,21 @@ const questions = [
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'What is the capital of India?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'Mumbai', correct: false },
+      { text: 'Himachal Pradesh', correct: false },
+      { text: 'New Delhi', correct: true },
+      { text: 'Calicut', correct: false }
     ]
   },
   {
-    question: 'Is web development fun?',
+    question: 'WHo is the founder of Apple?',
     answers: [
-      { text: 'Kinda', correct: false },
-      { text: 'YES!!!', correct: true },
-      { text: 'Um no', correct: false },
-      { text: 'IDK', correct: false }
+      { text: 'Steve Robs', correct: true },
+      { text: 'Bill Gates', correct: false },
+      { text: 'Jack Zuckerburg', correct: false },
+      { text: 'Michael Phelps', correct: false }
     ]
   },
   {
